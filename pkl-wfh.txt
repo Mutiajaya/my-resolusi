@@ -9,3 +9,4 @@ Rencana PKL Work From Home
 - Mencoba Praktek
 - Mempelajari Framework
 - Mempelajari React
+   *Nodejs
