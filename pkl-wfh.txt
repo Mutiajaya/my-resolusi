@@ -7,3 +7,5 @@ Rencana PKL Work From Home
 - Mempelajari Trello
    *Membuat Card dan Checklist
 - Mencoba Praktek
+- Mempelajari Framework
+- Mempelajari React
