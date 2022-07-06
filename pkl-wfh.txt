@@ -4,9 +4,8 @@ Rencana PKL Work From Home
    *Menonton Playlist wpu
 - Mempelajari Git
    *Menonton Playlist wpu
-- Mempelajari Trello
-   *Membuat Card dan Checklist
 - Mencoba Praktek
 - Mempelajari Framework
-- Mempelajari React
-   *Nodejs
+   *React
+   *PHP
+
